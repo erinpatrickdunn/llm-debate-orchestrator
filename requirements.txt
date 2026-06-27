@@ -1,0 +1,9 @@
+# Essential for Ollama API communication
+requests>=2.31.0
+
+# Essential for the Vector RAG subsystem (similarity math)
+numpy>=1.26.0
+
+# Optional: Useful for environment parity and path management
+# (These help ensure pathing works cross-platform)
+pathlib>=1.0.1
